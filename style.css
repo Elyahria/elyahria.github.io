@@ -1,0 +1,22 @@
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f7f0ff;
+  text-align: center;
+  padding: 20px;
+}
+model-viewer {
+  width: 400px;
+  height: 500px;
+  margin: 20px auto;
+}
+.chat {
+  margin-top: 30px;
+}
+textarea {
+  width: 60%;
+  height: 100px;
+}
+button {
+  margin-top: 10px;
+}
